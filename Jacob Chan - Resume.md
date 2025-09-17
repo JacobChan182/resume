@@ -15,10 +15,12 @@ Courses taken include: Introduction to Computer Programming (Python), Introducti
 
 # **Experience**
 
-| Summer 2023 and         Summer 2024   | Swim Instructor at Rinconada Pool (Paid)  Menlo Swim & Sport \- Palo Alto, CA Taught children ages 3-12 how to swim/improve their swimming technique and gain confidence in the water Evaluated swimmers’ performance and worked with the parents/guardians at the end of each week to set goals and suggest improvements |
-| :---- | :---- |
-| Summer 2022 | **Lifeguard at Rinconada Pool (Paid)**  Menlo Swim & Sport \- Palo Alto, CA Enforced safety rules as a lifeguard at the city’s largest and busiest public pool Performed off-guard tasks such as chemical checks during breaks and closed the pool, ensuring the area was clean and covered. |
-| 2019-2024 | **A/V Technician (Volunteer)** Peninsula Bible Church, Palo Alto, CA Maintained consistent audio levels during service Controlled background music during meet-and-greets and before and after service Controlled presentation slides |
+| Date Range | Position | Description |
+|------------|----------|-------------|
+| Summer 2023 and Summer 2024 | **Swim Instructor at Rinconada Pool (Paid)** | Menlo Swim & Sport - Palo Alto, CA. Taught children ages 3-12 how to swim/improve their swimming technique and gain confidence in the water. Evaluated swimmers’ performance and worked with the parents/guardians at the end of each week to set goals and suggest improvements. |
+| Summer 2022 | **Lifeguard at Rinconada Pool (Paid)** | Menlo Swim & Sport - Palo Alto, CA. Enforced safety rules as a lifeguard at the city’s largest and busiest public pool. Performed off-guard tasks such as chemical checks during breaks and closed the pool, ensuring the area was clean and covered. |
+| 2019-2024 | **A/V Technician (Volunteer)** | Peninsula Bible Church, Palo Alto, CA. Maintained consistent audio levels during service. Controlled background music during meet-and-greets and before and after service. Controlled presentation slides. |
+
 
 # **Awards**
 
@@ -28,7 +30,6 @@ Courses taken include: Introduction to Computer Programming (Python), Introducti
 # **Skills & Tools**
 
 | Languages/frameworks and tools: Git | Python | Java | R | HTML | CSS | JavaScript | React.js Creation-related software: Adobe Premiere Pro | Adobe After Effects | Logic Pro |
-| :---- |
 
 # **Extracurricular Activities**
 

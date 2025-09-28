@@ -2,6 +2,8 @@
 
 Highly motivated and organized student with a strong interest in programming, data analysis, and statistics, seeking a Summer 2026 internship or co-op. Many years in the pool as a competitive swimmer, lifeguard, and swim instructor helped me develop strong teamwork, communication, and problem-solving skills, which I hope to bring to my next job.
 
+Eligible to work in the United States and Canada, and able to work in Toronto, Ottawa, or the San Francisco Bay Area without the need for relocation assistance.
+
 ## Education
 
 **University of Toronto, Class of 2028 | Faculty of Arts and Science (Co-op) | GPA: 3.49 | Toronto, ON**  

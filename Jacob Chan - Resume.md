@@ -18,13 +18,25 @@ Courses include: Introduction to Computer Science (Data Structures and Algorithm
 - Learn Node.js [In Progress](https://www.codecademy.com/learn/learn-node-js) 70% complete.
 
 ## Experience
+**Swim Instructor at Rinconada Pool**
 
-| Job Title                  | Date                                        | Description                                                                                                                                                                                                                                                                                                                                            |
-| :-------------------------- | :------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Swim Instructor at Rinconada Pool (Paid)** | Summer 2023 and Summer 2024 | Menlo Swim & Sport \- Palo Alto, CA Taught 30+ children per week, ages 3-12, on how to improve swimming technique and gain confidence in the pool, resulting in over 100 children being promoted to the next level Evaluated swimmers’ performance and worked with the parents/guardians at the end of each week to set goals and suggest improvements |
-| **Lifeguard at Rinconada Pool (Paid)** | Summer 2022 | Menlo Swim & Sport \- Palo Alto, CA Enforced safety rules as a lifeguard at the city’s largest and busiest public pool Performed off-guard tasks such as chemical checks during breaks and closed the pool, ensuring the area was clean and covered                                                                                                    |
-| **A/V Technician (Volunteer)** | 2019-2024 | Peninsula Bible Church, Palo Alto, CA Maintained consistent audio levels during service and controlled presentation slides                                                                                                                                                                                                                             |
+Menlo Swim & Sport \- Palo Alto, CA (Summer 2023 and Summer 2024\)
 
+* Taught 30+ children per week, ages 3-12, on how to improve swimming technique and gain confidence in the pool, resulting in over 100 children being promoted to the next level  
+* Evaluated swimmers’ performance and worked with the parents/guardians at the end of each week to set goals and suggest improvements
+
+**Lifeguard at Rinconada Pool** 
+
+Menlo Swim & Sport \- Palo Alto, CA (Summer 2022\)
+
+* Enforced safety rules as a lifeguard at the city’s largest and busiest public pool  
+* Performed off-guard tasks such as chemical checks during breaks and closed the pool, ensuring the area was clean and covered
+
+**A/V Technician**
+
+Peninsula Bible Church, Palo Alto, CA (2019-2024)
+
+* Maintained consistent audio levels during service and controlled presentation slides
 ## Awards
 
 - AP Scholar with Distinction (2024)
